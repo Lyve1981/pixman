@@ -53,3 +53,5 @@ test/trap-crasher
 *.ilk
 *.obj
 *.exe
+cmake_generated/
+cmake_out/
