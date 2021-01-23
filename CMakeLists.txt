@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.15)
 
-project(pixman VERSION 0.35.1 )#LANGUAGES C ASM)
+project(pixman VERSION 0.40.1 )#LANGUAGES C ASM)
 
 set(PIXMAN_VERSION_MAJOR ${pixman_VERSION_MAJOR})
 set(PIXMAN_VERSION_MINOR ${pixman_VERSION_MINOR})
